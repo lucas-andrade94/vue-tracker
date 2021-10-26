@@ -19,6 +19,7 @@
 Project developed using the following technologies:
 
 - [Vue.js](https://vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Bulma](https://bulma.io/)
 
 
