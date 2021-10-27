@@ -2,7 +2,7 @@
   <Box>
     <div class="columns">
       <div class="column is-7">
-        {{ tarefa.descricao || "Tarefa sem denominação" }}
+        {{ tarefa.descricao || "Task undefined" }}
       </div>
       <div class="column">
         <Cronometro :tempoEmSegundos="tarefa.duracaoEmSegundos" />

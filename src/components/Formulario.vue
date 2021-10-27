@@ -4,12 +4,12 @@
       <div
         class="column is-8"
         role="form"
-        aria-label="Formulário para criação de uma nova tarefa"
+        aria-label="Formulary to create a new task"
       >
         <input
           type="text"
           class="input"
-          placeholder="Qual tarefa você deseja iniciar?"
+          placeholder="What task do you want to do?"
           v-model="descricao"
         />
       </div>

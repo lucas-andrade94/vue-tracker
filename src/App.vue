@@ -14,7 +14,7 @@
           :key="index"
           :tarefa="tarefa"
         />
-        <Box v-if="listaEstaVazia">Você não fez nenhuma tarefa hoje!</Box>
+        <Box v-if="listaEstaVazia">You haven't done any task</Box>
       </div>
     </div>
   </main>

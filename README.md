@@ -53,9 +53,9 @@ npm run serve
 https://vue-tracker-rosy.vercel.app/
 
 
-
 ### Screens
 <div align="center">
     <img alt="Main Page" title="Main Page" src=".github\screen-1.png?raw=true" width="200px" />
-    <img alt="Main Page" title="Main Page" src=".github\screen-2.png?raw=true" width="200px" />
+		<img alt="Main Page" title="Main Page" src=".github\screen-2.png?raw=true" width="200px" />
+    <img alt="Main Page Dark Mode" title="Main Page Dark Mode" src=".github\screen-3.png?raw=true" width="200px" />
 </div>

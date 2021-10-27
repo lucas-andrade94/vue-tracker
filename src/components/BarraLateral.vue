@@ -24,9 +24,9 @@ export default defineComponent({
   computed: {
     textoBotao() {
       if (this.modoEscuroAtivo) {
-        return "Desativar Modo Escuro";
+        return "Turn off Dark Mode";
       }
-      return "Ativar Modo Escuro";
+      return "Turn on Dark Mode";
     },
   },
 
